@@ -1,0 +1,9 @@
+Metric,Value
+Total transactions,"590,540"
+Fraudulent transactions,"20,663"
+Legitimate transactions,"569,877"
+Overall fraud rate,3.50%
+Median fraud transaction ($),$75.00
+Median legitimate transaction ($),$68.50
+Most fraud-prone product,C
+Highest-risk amount band,$0–25
